@@ -1,0 +1,44 @@
+#index-heading{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 36px;
+}
+
+#recipes-list{
+    font-size: 24px;
+}
+
+.headings{
+    background-color: red;
+    color:#ffffff;
+    padding:1%;
+}
+
+.back-button{
+    margin-bottom: -4em;
+    padding:8px;
+    font-size:medium;
+    background-color: white;
+    border-color: red;
+    border-radius: 10%;
+}
+
+.back-button a{
+    text-decoration: none;
+}
+
+.main-img img{
+    display: block;
+    margin:auto;
+}
+
+.description{
+    margin:1%;
+    background-color: lightgrey;
+    padding:2%;
+}
+
+
+/* on:hover(.back-button){
+    transform: scale(1.1);
+} */
